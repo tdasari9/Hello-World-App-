@@ -7,7 +7,7 @@ Codepath iOS Prework
 This app provides a basic run down of an iOS app that displays text and screen styles based on the user preferences, including background color and font color.
 
 ### App Walk-thoughhttps:
-drive.google.com/file/d/14f7Z7z3H9GBExO5zqnjrdu5dgCC2IGFQ/view?usp=sharing
+<img src="https://i.imgur.com/jyTl766.gif" width=200><br>
 
 
 ### Required User Stories
